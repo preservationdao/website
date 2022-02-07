@@ -217,6 +217,7 @@ p {
   margin-right: 35px;
   background-color: white;
   padding: 54px 34px 44px;
+  text-align: center;
 }
 
 .tm-contact-item:last-child {
