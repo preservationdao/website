@@ -220,6 +220,12 @@ p {
   text-align: center;
 }
 
+.tm-contact-item a {
+  color: #004b53;
+}
+
+
+
 .tm-contact-item:last-child {
   margin-right: 0;
 }
