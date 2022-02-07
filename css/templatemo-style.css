@@ -288,7 +288,7 @@ p {
   }
 
   .tm-contact-item {
-    width: 80%;
+    width: 100%;
     max-width: 680px;
     min-height: 0;
     margin-left: auto;
