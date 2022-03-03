@@ -67,6 +67,16 @@ a:hover {
   background-color: #676767;
 }
 
+.preservation-logo {
+  max-width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:#aa8800;
+  border:0px;
+  border-radius: 500px;
+}
+
 
 /*
 This is a colour gradient for "tree" colors (brownish to greenish)
