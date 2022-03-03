@@ -358,6 +358,10 @@ p {
     margin-left: auto;
     margin-right: auto;
   }
+  .tm-brand-container {
+    padding: 70px 110px;
+  }
+
 }
 
 @media (max-width: 768px) {
