@@ -405,6 +405,12 @@ p {
     padding:10px 0px;
   }
   .tm-brand-name {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
+  .tm-welcome-left {
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 20px;
+  }
+
 }
