@@ -400,12 +400,11 @@ p {
 
 }
 
-@media (max-width: 443px) {
-  .tm-brand-name {
-    font-size: 2.5rem;
-  }
-
+@media (max-width: 460px) {
   .tm-brand-container {
-    padding: 25px;
+    padding:10px 0px;
+  }
+  .tm-brand-name {
+    font-size: 2rem;
   }
 }
